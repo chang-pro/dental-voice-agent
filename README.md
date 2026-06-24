@@ -9,6 +9,13 @@
 
 **I built an AI receptionist that picks up the phone, talks to patients naturally, checks the dentist's calendar, books appointments, and sends SMS confirmations — without a human touching anything.**
 
+**⚡ At a glance**
+- 🎙️ Natural **voice AI** (Vapi) answering real phone calls 24/7 — not a chatbot
+- 📅 Checks **live Google Calendar** availability and books the slot mid-call, handling conflicts on the fly
+- 💬 Fires an automatic **Twilio SMS** confirmation the moment a booking lands
+- ☁️ Fully **serverless** (Netlify Functions) — nothing to host, scales to zero
+- 💸 Replaces a $30k/yr receptionist; every missed call is a $500–$2,000/yr patient saved
+
 ---
 
 ## Why This Matters
